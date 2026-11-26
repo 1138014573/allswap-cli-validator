@@ -1,0 +1,4 @@
+allswap-cli-validator is a lightweight, zero-dependency C99 command-line
+utility for validating cryptocurrency wallet addresses and mandatory
+destination memos across Bitcoin (Bech32/Legacy), Ethereum/EVM, Solana,
+TRON, and TON networks.
